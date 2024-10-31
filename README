@@ -1,0 +1,30 @@
+=== Pinoy Ako, Hello Dolly edition ===
+Contributors: jpaonline
+Tags: hello dolly, pinoy ako
+Requires at least: 3.0
+Tested up to: 3.0
+Stable tag: trunk
+
+== Description ==
+
+The Wordpress Plugin re-edited for the proud Pinoys. It has the lyrics of the theme song of Pinoy BigBrother First Edition, which is sung by Orange and Lemons. 
+
+== Installation ==
+
+1. Upload the zip (of course, UNZIP first.) file to the `/wp-content/plugins/` directory
+2. Activate the Plugin on your Plugins section.
+3. Done! (See the lyrics on the right side.)
+
+== Frequently Asked Questions ==
+
+= Is this the same as the Original Hello dolly by Matt Mullenweg? =
+
+Yes. This is just an edit of the script.
+
+= Is this suitable for the latest WordPress installs? =
+
+Yep.
+
+= This neds a hotfix. How can I help? =
+
+Check out the [GitHub](http://github.com/assortex/pinoydolly) repository to send a pull request. 
